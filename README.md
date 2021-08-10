@@ -11,8 +11,10 @@
 # Utilization : 
 
          You need to download the zip , then allowing the file's execution with this command : "chmod +x Firewallsh ".
+         
          Finally , executing the script , this command should do the trick .
-         sudo ./Firewallsh
+         
+        " sudo ./Firewallsh "
          
 
                                   
