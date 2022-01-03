@@ -1,9 +1,4 @@
 #!/bin/sh
-###
-# Script Pare-feu pour Linux utilisant iptables
-# Le script est commenté mais n'offre aucune garantie
-# A vous de l'adapter à vos besoins !
-###
 iptables -t filter -F
 iptables -t nat -F
 iptables -t mangle -F
